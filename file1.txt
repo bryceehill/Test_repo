@@ -3,3 +3,6 @@ New file
 New line
 Adding feature 1.1
 Making another change 2
+
+
+Makning another change

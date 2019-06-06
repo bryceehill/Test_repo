@@ -6,3 +6,6 @@ Making another change 2
 
 
 Makning another change
+Modifying this feature again adding feature 1.2
+Adding feature 1.4
+

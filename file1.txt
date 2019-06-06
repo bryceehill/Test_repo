@@ -10,3 +10,6 @@ Modifying this feature again adding feature 1.2
 Adding feature 1.4
 
 Adding it online now
+
+After it's been cloned
+
